@@ -10,3 +10,8 @@ print("Hello World")
 ```
 
 8:28pm adding this text 
+
+```{r}
+3*2
+```
+
